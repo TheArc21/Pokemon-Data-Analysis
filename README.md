@@ -1,4 +1,4 @@
-Markup :  # Pokemon Data Analysis #
+Markup :  # Heading 1 #
 Nostalgic for childhood love of Pokémon. Conducting a data analysis project using a Pokémon dataset as a way to revisit that nostalgia.
 
 Table of Contents
